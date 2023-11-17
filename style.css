@@ -93,3 +93,9 @@ ul li span{
 ul li span:hover{
     background:#edeef0;
 }
+
+@media only screen and (max-width: 768px) {
+    todo-app{
+        background: #3379eb;
+    }
+}
